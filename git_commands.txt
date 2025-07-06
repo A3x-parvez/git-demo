@@ -16,3 +16,5 @@ git log --stat
 git log -p
 git show <sha_id>
 git diff
+git checkout <sha_id>
+git checkout master
