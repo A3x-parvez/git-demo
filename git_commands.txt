@@ -1,1 +1,13 @@
+Basic commands:
+--------------------------------
 git init
+git status
+git add <filename>
+git add .
+git commit -m "commit message"
+Work of .gitignore file
+--------------------------------
+--------------------------------
+Seeing Commits commands:
+--------------------------------
+
