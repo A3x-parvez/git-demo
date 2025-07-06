@@ -10,4 +10,9 @@ Work of .gitignore file
 --------------------------------
 Seeing Commits commands:
 --------------------------------
-
+git log
+git log --oneline
+git log --stat
+git log -p
+git show <sha_id>
+git diff
